@@ -1,0 +1,32 @@
+{
+  "hotel1": {
+    "name": "Sunrise Hotel",
+    "location": " Amsterdam, 17th Street",
+    "created-at": "15.05.15"
+  },
+  "hotel2": {
+    "name": "World Hotel",
+    "location": " Amsterdam, 17th Street",
+    "created-at": "15.05.12"
+  },
+  "hotel3": {
+    "name": "Global Hotel",
+    "location": " Amsterdam, 17th Street",
+    "created-at": "15.05.18"
+  },
+  "partner1": {
+    "name": "Sunrise Hotel",
+    "location": " Amsterdam, 17th Street",
+    "created-at": "15.05.15"
+  },
+  "partner2": {
+    "name": "World Hotel",
+    "location": " Amsterdam, 17th Street",
+    "created-at": "15.05.12"
+  },
+  "partner3": {
+    "name": "Global Hotel",
+    "location": " Amsterdam, 17th Street",
+    "created-at": "15.05.18"
+  }
+}

@@ -1,0 +1,93 @@
+.menu {
+    background-color: #495057;
+    border-radius: 2px;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.menu ul .list-item:not(:last-child) {
+    border-right: 1px solid #ccc;
+}
+
+.list .list-item {
+    padding: 10px 40px;
+}
+
+.list .list-item button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 0.9em;
+    font-weight: 550;
+    outline: none;
+}
+
+.list .list-item:hover {
+    background-color: rgba(226, 226, 226, 0.178);
+}
+
+.list .list-item a {
+    font-weight: 550;
+    font-size: 0.9em;
+    color: white;
+}
+
+.list .list-item a:hover {
+    text-decoration: none;
+}
+
+.details .detail-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.details .detail-list .detail-list-item {
+    display: inline;
+    font-size: 1.2em;
+}
+
+.hotel-details {
+    display: flex;
+    padding: 40px;
+}
+
+.hotel-details h1 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: normal;
+    border-bottom: 1px solid #000;
+}
+
+.hotel-details .name,
+.hotel-details .created-at {
+    width: 200px;
+    width: 200px;
+}
+
+.hotel-details .name p {
+    font-size: 0.9em;
+    font-weight: 300;
+
+}
+
+.hotel-details .location {
+    margin: 0 50px;
+}
+
+
+
+.operations {
+    display: flex;
+
+}
+
+.operations span {
+    margin-left: 10px;
+    padding-top: 15px;
+}
